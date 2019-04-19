@@ -1,0 +1,6 @@
+framework module Pods_Negotiable_Environment {
+  umbrella header "Pods-Negotiable Environment-umbrella.h"
+
+  export *
+  module * { export * }
+}
